@@ -1,0 +1,27 @@
+{
+  "name": "paper-planes",
+  "version": "1.0.0",
+  "description": "A Experiment with paper.js",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "paper": "^0.12.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://peps84@github.com/peps84/paper-planes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peps84/paper-planes/issues"
+  },
+  "homepage": "https://github.com/peps84/paper-planes#readme"
+}
