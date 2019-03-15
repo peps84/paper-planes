@@ -1,0 +1,10 @@
+.hello{
+    color:red;
+    border:2px solid navy;
+}
+
+#head{
+    display: block;
+    color:white;
+    position: absolute;
+}
